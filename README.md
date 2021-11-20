@@ -5,6 +5,10 @@
 
 <https://chicodias.github.io/ants/ants.html>
 
+## Vídeo
+
+<https://youtu.be/Q1_tBZmXriE>
+
 ## Referências
 
   - “Does random dispersion help survival?” - Rinaldo B. Schinazi
